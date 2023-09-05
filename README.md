@@ -1,3 +1,5 @@
+### I added the JAE paper on the surrogate model application I mentioned in todays Q&A
+
 # PromotionskollegModule6800_2023
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
 September 4-8, 2023 (in presence in Bonn, Nussallee 19, seminar room)
