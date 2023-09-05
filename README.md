@@ -11,6 +11,17 @@ Hugo Storm - University of Bonn, Germany
 
 [Kathy Baylis - University of California, Santa Barbara, USA]
 
+
+### Research pitch 
+Please prepare a 3 min pitch of your research project. The pitch should cover the following points:
+1) What is your research question?
+2) What type of data do you use (intent to use)?
+3) What type of model do you use (intent to use)?
+4) What is the major challenge you are currently facing?
+5) Are you plan to use ML? If yes: Why and how? If no: What limitation do you see?
+
+We are planning to do the pitches Wednesday/Thursday in the after the Q&A session, as well Friday morning. 
+
 ### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1GHHBYM8lXTJg5A9hhl9do5f5yCH6yC7fwGK3FBLcnxE/edit?usp=sharing)
