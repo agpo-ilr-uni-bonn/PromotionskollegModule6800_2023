@@ -46,12 +46,12 @@ We are planning to do the pitches Wednesday/Thursday in the after the Q&A sessio
 
 
 ### Links to Day 4 material 
-<!-- - [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/12SLyH3bxYu0kySxFD61983cJjuOBW9vRcQ3T2tXpp2o/edit?usp=sharing)
+- [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/12SLyH3bxYu0kySxFD61983cJjuOBW9vRcQ3T2tXpp2o/edit?usp=sharing)
 - [Day 4b slides - ML and causal analysis (also include part of day 5 slides)](https://docs.google.com/presentation/d/1p7RcfS5FyqO3fwhNfUmSvP7RyfH2ebHcsejXDYhybmE/edit?usp=sharing)
 - [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day4-5.ipynb)
--[Example notebook of Lasso Double selection](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/Example_LassoDoubleSelection.ipynb) -->
+-[Example notebook of Lasso Double selection](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/Example_LassoDoubleSelection.ipynb)
 
 
 ### Links to Day 5 material 
-<!-- - [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1p7RcfS5FyqO3fwhNfUmSvP7RyfH2ebHcsejXDYhybmE/edit?usp=sharing)
-- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day4-5.ipynb) -->
+- [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1p7RcfS5FyqO3fwhNfUmSvP7RyfH2ebHcsejXDYhybmE/edit?usp=sharing)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day4-5.ipynb)
