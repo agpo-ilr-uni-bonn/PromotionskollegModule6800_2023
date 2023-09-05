@@ -40,9 +40,9 @@ We are planning to do the pitches Wednesday/Thursday in the after the Q&A sessio
 
 
 ### Links to Day 3 material 
-<!-- - [Day 3a slides - Interpretation part II, Shapley values and other approaches](https://docs.google.com/presentation/d/1mCYuiOdMBvFpzIYgwokVAWc_UR46nqV6dA15rVBL7CQ/edit?usp=sharing)
+- [Day 3a slides - Interpretation part II, Shapley values and other approaches](https://docs.google.com/presentation/d/1mCYuiOdMBvFpzIYgwokVAWc_UR46nqV6dA15rVBL7CQ/edit?usp=sharing)
 - [Day 3b slides - Neural Networks (also include part of day 4 slides)](https://docs.google.com/presentation/d/12SLyH3bxYu0kySxFD61983cJjuOBW9vRcQ3T2tXpp2o/edit?usp=sharing)
-- [Day 3-4 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day3-4.ipynb) -->
+- [Day 3-4 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day3-4.ipynb)
 
 
 ### Links to Day 4 material 
