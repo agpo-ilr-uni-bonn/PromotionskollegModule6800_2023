@@ -1,4 +1,4 @@
-## I added the JAE paper on the surrogate model application I mentioned in todays Q&A
+### I fixed the link on "additional resources" for tree based methods in the Day2 slides and added another
 
 # PromotionskollegModule6800_2023
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
